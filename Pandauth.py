@@ -1,3 +1,6 @@
+__author__ = 'n0obit4'
+__version__ = 'v1.0'
+
 import pandas,xlrd
 from getpass import getpass
 class auth:
