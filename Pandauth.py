@@ -1,5 +1,6 @@
 __author__ = 'n0obit4'
 __version__ = 'v1.0'
+__Github__ = 'https://github.com/n0obit4'
 
 import pandas,xlrd
 from getpass import getpass
