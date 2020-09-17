@@ -14,12 +14,12 @@ $ pip3 install getpass
 
 #### Spreadsheet data
 
-[![xls data](https://raw.githubusercontent.com/n0obit4/Pandauth/master/Pictures/xls.png)]
+![xls data](https://raw.githubusercontent.com/n0obit4/Pandauth/master/Pictures/xls.png)
 
 This is the data in the **"database"**. We can observe the usernames and passwords.
 
 #### Login with Spreadsheet data
 
-[![login demostration](https://raw.githubusercontent.com/n0obit4/Pandauth/master/Pictures/login.png)]
+![login demostration](https://raw.githubusercontent.com/n0obit4/Pandauth/master/Pictures/login.png)
 
 And here i was try a fail password and later a valid password. 
