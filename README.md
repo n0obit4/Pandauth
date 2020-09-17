@@ -1,4 +1,4 @@
-# Pandauth
+# Pandauth ![Release](https://img.shields.io/badge/Release-v1.0-red.svg)
 
 Pandauth is a personal proyect thath consist a basic login without db typically known like **mysql**, **Mariadb**, etc...
 in this case I am using a spreadsheet.
