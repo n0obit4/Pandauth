@@ -1,5 +1,17 @@
-# Pandauth 
-![Release](https://img.shields.io/badge/Release-v1.0-red.svg) ![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
+<h1 align="center">
+  <br>
+  <a href="https://github.com/n0obit4/Pandauth"><img src="" alt="Pandauth Logo" border="0" width="180"></a>
+  <br>
+  Pandauth
+  <br>
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Release-v1.0-red.svg">
+  <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg">
+</p>
+
+### Pandauth 
 
 Pandauth is a personal proyect thath consist a basic login without db typically known like **mysql**, **Mariadb**, etc...
 in this case I am using a spreadsheet.
